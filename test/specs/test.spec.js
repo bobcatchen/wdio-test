@@ -21,7 +21,7 @@ describe('CSL Plasma homepage', function() {
         assert.equal(title,'Plasma Donation Centers - CSL Plasma');
     });
     it('should have a Contact Us link', function() {
-        const h1text = $('=Contact Us').click();
+        $('=Contact Us').click();
         assert.equal(browser.getTitle(),'Contact Us');
     });
 });
