@@ -1,0 +1,1 @@
+./node_modules/.bin/wdio run wdio.conf.js
