@@ -11,12 +11,12 @@
   "license": "ISC",
   "dependencies": {
     "@wdio/cli": "^5.22.0",
-    "mocha": "^7.1.0",
+    "mocha": "^10.2.0",
     "webdriverio": "^5.21.0"
   },
   "devDependencies": {
     "@wdio/local-runner": "^5.21.0",
-    "@wdio/mocha-framework": "^5.18.7",
+    "@wdio/mocha-framework": "^8.0.14",
     "@wdio/spec-reporter": "^5.18.7",
     "@wdio/sync": "^5.20.1",
     "chai": "^4.2.0",
